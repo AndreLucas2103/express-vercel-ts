@@ -2,9 +2,9 @@
     "name": "express-vercel",
     "version": "1.0.0",
     "description": "Deploy express js to vercel.",
-    "main": "dist/index.js",
+    "main": "dist/server.js",
     "scripts": {
-        "start": "node dist/index.js"
+        "start": "node dist/server.js"
     },
     "dependencies": {
         "express": "^4.17.1"
